@@ -1,0 +1,48 @@
+# ===== Unity generated =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Never ignore Asset meta data
+!/[Aa]ssets/**/*.meta
+
+# Unity crash reports
+sysinfo.txt
+crash_log.txt
+
+# ===== Build artifacts =====
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.ipa
+*.exe
+
+# ===== IDE / editors =====
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.csproj.*
+*.sln
+*.sln.*
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
